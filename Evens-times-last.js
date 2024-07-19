@@ -18,3 +18,5 @@ function evenLast(numbers) {
   }
   return sum * numbers[numbers.length - 1];
 }
+
+// or
